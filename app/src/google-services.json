@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166613766126",
+    "firebase_url": "https://watch-18846-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "watch-18846",
+    "storage_bucket": "watch-18846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166613766126:android:9959c879544eb60d9408ff",
+        "android_client_info": {
+          "package_name": "com.example.smartwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166613766126-j0e0s0kd8742gb6tbe5n9gpdbf3026r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtq53lxLShEY1TNmzhTbE6s7VonThFvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166613766126-j0e0s0kd8742gb6tbe5n9gpdbf3026r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
